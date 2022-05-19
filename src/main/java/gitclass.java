@@ -5,5 +5,6 @@ public class gitclass {
 
     public static void main(String[] args) {
         System.out.println("kklkkkk");
+        System.out.println("2222222");
     }
 }
